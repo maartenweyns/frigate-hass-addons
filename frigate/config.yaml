@@ -58,5 +58,4 @@ arch:
   - armv7
 map:
   - media:rw
-  - config:rw
   - addon_config
